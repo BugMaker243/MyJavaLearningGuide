@@ -14,9 +14,15 @@ MySQL看尚硅谷宋红康的，康师傅
 
 ① 以这个人为主：[lliuql/learn_db](https://github.com/lliuql/learn_db)
 
-他的笔记我复制一份到自己的私有仓库作为备份，这个版本是他2022年最后更新的版本，仓库地址：
+他的笔记我复制一份到自己的私有仓库作为备份，这个版本是他2022年最后更新的版本，文件夹路径是MySQL/learn_mysql_ksf
 
-② 
+仓库地址：[BugMaker243/Databases: jason在学习数据库时用到的资料以及自己的笔记](https://github.com/BugMaker243/Databases)
+
+② 另一个人是：[codinglin/StudyNotes: 个人学习笔记](https://github.com/codinglin/StudyNotes)
+
+他的笔记我同样复制一份到自己的私有仓库作为备份，这个版本是他2023年最后更新的版本，文件夹路径是MySQL/codinglin_mysql_notes
+
+仓库地址：[BugMaker243/Databases: jason在学习数据库时用到的资料以及自己的笔记](
 
 <img src="http://jason243.online/java-eight-part/MySQL/1.png">
 
