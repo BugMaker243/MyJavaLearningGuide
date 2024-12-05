@@ -10,6 +10,14 @@ MySQL看尚硅谷宋红康的，康师傅
 
 宋红康不提供讲义，可以看别人发的笔记
 
+我看的笔记主要是两个人的
+
+① 以这个人为主：[lliuql/learn_db](https://github.com/lliuql/learn_db)
+
+他的笔记我复制一份到自己的私有仓库作为备份，这个版本是他2022年最后更新的版本，仓库地址：
+
+② 
+
 <img src="http://jason243.online/java-eight-part/MySQL/1.png">
 
 
@@ -91,3 +99,25 @@ JVM文件夹里面是宋红康的，宋红康作为辅助，因为内容很多�
 主要还是刷题和看labuladong的笔记内容
 
 看的是labuladong的算法笔记网站，它里面要钱的就在网上找的别的文章看
+
+
+
+
+
+
+
+# 2、其他工具软件笔记
+
+## 2.1、Git
+
+见仓库：[BugMaker243/GitLearning: jason的Git学习笔记仓库](https://github.com/BugMaker243/GitLearning)
+
+截止目前为止还没有怎么好好学git
+
+
+
+# 声明
+
+这个仓库主要是为了方便自己后续学习和复习使用，公开是想着说不定能帮助到其他同样的有学习需求的人或者新手。
+
+**仅作为学习交流使用，相关内容版权归原作者所有**
