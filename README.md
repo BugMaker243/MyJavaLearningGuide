@@ -6,7 +6,7 @@
 
 MySQL看尚硅谷宋红康的，康师傅
 
-主要原理和内容看下篇，上篇是MySQL命令
+主要原理和内容看高级篇，上篇是MySQL命令
 
 宋红康不提供讲义，可以看别人发的笔记
 
@@ -14,17 +14,56 @@ MySQL看尚硅谷宋红康的，康师傅
 
 ① 以这个人为主：[lliuql/learn_db](https://github.com/lliuql/learn_db)
 
-他的笔记我复制一份到自己的私有仓库作为备份，这个版本是他2022年最后更新的版本，文件夹路径是MySQL/learn_mysql_ksf
+他的笔记我复制一份到自己的私有仓库作为备份，这个版本是他2022年最后更新的版本，文件夹路径是MySQL/learn_mysql_ksf，里面都是高级篇的内容
 
 仓库地址：[BugMaker243/Databases: jason在学习数据库时用到的资料以及自己的笔记](https://github.com/BugMaker243/Databases)
 
 ② 另一个人是：[codinglin/StudyNotes: 个人学习笔记](https://github.com/codinglin/StudyNotes)
 
-他的笔记我同样复制一份到自己的私有仓库作为备份，这个版本是他2023年最后更新的版本，文件夹路径是MySQL/codinglin_mysql_notes
+他的笔记我同样复制一份到自己的私有仓库作为备份，这个版本是他2023年最后更新的版本，文件夹路径是MySQL/codinglin_mysql_notes，他的笔记有基础篇和高级篇
 
 仓库地址：[BugMaker243/Databases: jason在学习数据库时用到的资料以及自己的笔记](
 
 <img src="http://jason243.online/java-eight-part/MySQL/1.png">
+
+
+
+**宋红康的MySQL共199集，分为基础篇和高级篇，B站链接为：[96-MySQL高级特性篇章节概览_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iq4y1u7vj?spm_id_from=333.788.videopod.episodes&vd_source=5ebc23eaa7b398a26935554901286724&p=96) **
+
+**MySQL高级篇从96集开始，分为以下4个篇章，共十九个单元**
+
+**①MySQL架构篇**
+
+- 第01章：Linux下MySQL的安装与使用
+- 第02章：MySQL的数据目录
+- 第03章：用户与权限管理
+- 第04章：逻辑架构
+- 第05章：存储引擎
+
+**②索引与调优篇**
+
+- 第06章：索引的数据结构
+- 第07章：InnoDB数据存储结构
+- 第08章：索引的创建与设计原则
+- 第09章：性能分析工具的使用
+- 第10章：索引优化与查询优化
+- 第11章：数据库的设计规范
+- 第12章：数据库其他调优策略
+
+**③事务篇**
+
+- 第13章：事务基础知识
+- 第14章：MySQL事务日志
+- 第15章：锁
+- 第16章：多版本并发控制(MVCC)
+
+**④日志与备份篇**
+
+- 第17章：其他数据库日志
+- 第18章：主从复制
+- 第19章：数据库备份与恢复
+
+
 
 
 
