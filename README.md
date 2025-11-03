@@ -77,11 +77,11 @@ Redis看小林coding的，尚硅谷的作为补充，讲的更细
 
 主要看以下内容
 
-<img src="http://jason243.online/java-eight-part/Redis/1.png">
 
-<img src="http://jason243.online/java-eight-part/Redis/2.png">
 
-<img src="http://jason243.online/java-eight-part/Redis/3.png">
+![](/images_java-eight-part/Redis/2.png)
+
+![](/images_java-eight-part/Redis/3.png)
 
 
 
@@ -91,9 +91,9 @@ Redis看小林coding的，尚硅谷的作为补充，讲的更细
 
 以章节为单位，如果是框选那就只看框选的，如果是排除就看排除以外的
 
-<img src="http://jason243.online/java-eight-part/OS/1.png">
+![](/images_java-eight-part/OS/1.png)
 
-<img src="http://jason243.online/java-eight-part/OS/2.png">
+![](/images_java-eight-part/OS/2.png)
 
 
 
@@ -107,9 +107,9 @@ Redis看小林coding的，尚硅谷的作为补充，讲的更细
 
 主要看以下内容
 
-<img src="http://jason243.online/java-eight-part/Net/1.png">
+![](/images_java-eight-part/Net/1.png)
 
-<img src="http://jason243.online/java-eight-part/Net/2.png">
+![](/images_java-eight-part/Net/2.png)
 
 
 
@@ -135,7 +135,7 @@ JVM文件夹里面是宋红康的，宋红康作为辅助，因为内容很多�
 
 主要是以下内容
 
-<img src="http://jason243.online/java-eight-part/JVM/1.png">
+![](/images_java-eight-part/JVM/1.png)
 
 
 
