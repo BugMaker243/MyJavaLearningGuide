@@ -28,9 +28,7 @@ MySQL看尚硅谷宋红康的，康师傅
 
 仓库地址：[BugMaker243/Databases: jason在学习数据库时用到的资料以及自己的笔记](
 
-<img src="http://jason243.online/java-eight-part/MySQL/1.png">
-
-
+![](/images_java-eight-part/MySQL/1.png)
 
 **宋红康的MySQL共199集，分为基础篇和高级篇，B站链接为：[96-MySQL高级特性篇章节概览_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iq4y1u7vj?spm_id_from=333.788.videopod.episodes&vd_source=5ebc23eaa7b398a26935554901286724&p=96) **
 
@@ -66,8 +64,6 @@ MySQL看尚硅谷宋红康的，康师傅
 - 第17章：其他数据库日志
 - 第18章：主从复制
 - 第19章：数据库备份与恢复
-
-
 
 
 
