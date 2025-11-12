@@ -1,4 +1,4 @@
-# 我的个人Java学习资料目录
+# Java学习资料目录
 
 # 1、java八股都看谁的以及看哪些内容
 
@@ -137,27 +137,25 @@ JVM文件夹里面是宋红康的，宋红康作为辅助，因为内容很多�
 
 ## 1.7 算法
 
-算法刷题为主，刷leetcode的hot100和面试150
+算法刷题为主，刷leetcode的hot100和面试150。
 
-我自己随意整理的算法笔记的仓库地址：[BugMaker243/AlgorithmNotes: jason的算法学习笔记仓库](https://github.com/BugMaker243/AlgorithmNotes)
-
-主要还是刷题和看labuladong的笔记内容
-
-看的是labuladong的算法笔记网站，它里面要钱的就在网上找的别的文章看
+可以直接上手刷题，不会的就看题解/B站上的视频讲解，记住之后过段时间再重新做，甚至干脆直接背下来。
 
 
 
+我主要还是刷题和看labuladong的笔记内容，因为我当时的时间比较充足。
+
+- 看的是labuladong的算法笔记网站，它里面要钱的就在网上找的别的文章看
+
+- 也有一些同学看的代码随想录的视频，在B站上面可以搜索到
 
 
 
+算法题容易遗忘，可以维护一个类似这样的表格定期复习，我使用的是飞书在线表格，用什么无所谓，自己熟悉的会使用的就行
 
-# 2、其他工具软件笔记
+![](./images_java-eight-part/suanfa/1.png)
 
-## 2.1、Git
 
-见仓库：[BugMaker243/GitLearning: jason的Git学习笔记仓库](https://github.com/BugMaker243/GitLearning)
-
-截止目前为止还没有怎么好好学git
 
 
 
